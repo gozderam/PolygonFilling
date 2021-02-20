@@ -1,5 +1,5 @@
 # Polygon Filling
-Application filling polygons with scanline algorithm (version with vertices sorting and Active Edges Table) including Phong lightning model.
+Application filling polygons with **scanline algorithm (version with vertices sorting and Active Edges Table) including Phong lightning model**.
 
 
 ## Algorithm
